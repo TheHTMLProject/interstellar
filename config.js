@@ -6,6 +6,7 @@ const config = {
      Ben: 'Dover',
     cbaiata: 'helicopter',
     geronimo: 'monkey',
+    bvoigt: 'monkey',
     
   },
   routes: true, // Change this to false if you just want to host a bare server.
