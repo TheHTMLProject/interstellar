@@ -8,6 +8,7 @@ const config = {
     geronimo: 'monkey',
     bvoigt: 'monkey',
     vjin: 'password123',
+    thespanishmonkey: 'monkey123',
     
   },
   routes: true, // Change this to false if you just want to host a bare server.
