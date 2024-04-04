@@ -14,6 +14,7 @@ const config = {
     johnny: 'amongusman',
     jacob: 'susman1000',
     joe: 'mama',
+    max: 'thermostat',
   },
   routes: true, // Change this to false if you just want to host a bare server.
   local: true, // Change this to false to disable local assets.
