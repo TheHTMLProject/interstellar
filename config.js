@@ -19,6 +19,7 @@ const config = {
     olivia: 'tejada',
     hudson: 'hhh',
     scott: 'sss',
+    peter: 'ppp',
   },
   routes: true, // Change this to false if you just want to host a bare server.
   local: true, // Change this to false to disable local assets.
