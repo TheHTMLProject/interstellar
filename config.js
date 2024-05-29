@@ -21,6 +21,8 @@ const config = {
     scott: 'sss',
     peter: 'ppp',
     connor: 'ccc',
+    ant: 'aaa',
+    tyrone: 'ttt',
   },
   routes: true, // Change this to false if you just want to host a bare server.
   local: true, // Change this to false to disable local assets.
