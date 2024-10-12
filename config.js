@@ -23,6 +23,8 @@ const config = {
     ant: 'aaa',
     tyrone: 'ttt',
     brennan: 'bbb',
+    julian: 'jjj',
+    skiber: 'sss',
   },
   routes: true, // Change this to false if you just want to host a bare server.
   local: true, // Change this to false to disable local assets.
