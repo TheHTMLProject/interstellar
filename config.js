@@ -24,6 +24,7 @@ const config = {
     tyrone: 'ttt',
     brennan: 'bbb',
     julian: 'jjj',
+    alek: 'aaa',
  
   },
   routes: true, // Change this to false if you just want to host a bare server.
