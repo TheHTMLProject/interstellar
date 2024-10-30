@@ -27,6 +27,8 @@ const config = {
     alek: 'aaa',
     quincy: 'qqq',
     nova: 'nnn',
+    alex: 'aaa',
+    
     
   },
   routes: true, // Change this to false if you just want to host a bare server.
