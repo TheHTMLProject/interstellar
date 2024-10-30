@@ -28,6 +28,8 @@ const config = {
     quincy: 'qqq',
     nova: 'nnn',
     alex: 'aaa',
+    nick: 'nnn',
+    
     
     
   },
