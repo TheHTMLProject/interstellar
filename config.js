@@ -29,6 +29,12 @@ const config = {
     nova: 'nnn',
     alex: 'aaa',
     nick: 'nnn',
+    ns: 'ns',
+    caiden: 'ccc',
+    john: 'jjj',
+    Skibidi: 'Toilet',
+    
+    
     
     
     
