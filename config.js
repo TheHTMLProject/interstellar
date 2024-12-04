@@ -35,7 +35,7 @@ const config = {
     Skibidi: 'Toilet',
     dario: 'Insano 12th!',
     Toxictomb: 'Sunita/2011',
-    elite.owen03: 'owenwiener10',
+    eliteowen03: 'owenwiener10',
 
   },
   routes: true, // Change this to false if you just want to host a bare server.
