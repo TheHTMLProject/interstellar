@@ -36,6 +36,7 @@ const config = {
     dario: 'Insano 12th!',
     Toxictomb: 'Sunita/2011',
     eliteowen03: 'owenwiener10',
+    MaoriMenace: '.',
 
   },
   routes: true, // Change this to false if you just want to host a bare server.
