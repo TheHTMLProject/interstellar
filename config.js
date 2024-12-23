@@ -37,6 +37,8 @@ const config = {
     Toxictomb: 'Sunita/2011',
     eliteowen03: 'owenwiener10',
     MaoriMenace: '.',
+    DylanPlayzgfnf: 'ddd',
+    
 
   },
   routes: true, // Change this to false if you just want to host a bare server.
