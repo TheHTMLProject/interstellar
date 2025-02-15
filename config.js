@@ -38,7 +38,9 @@ const config = {
     eliteowen03: 'owenwiener10',
     MaoriMenace: '.',
     DylanPlayzgfnf: 'ddd',
-    
+    gyattmaxer: 'ggg',
+    chillguy: 'ccc',
+    WhosJay11: 'jjj',    
 
   },
   routes: true, // Change this to false if you just want to host a bare server.
