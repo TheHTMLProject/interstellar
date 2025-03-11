@@ -1,0 +1,13 @@
+Hello [NAME],
+
+Here are your credentials for The Special Place:
+Username: [UNAME]
+Password: [PASSWD]
+
+Please bookmark this page, you will only have one chance before allowing the popups (about:blank cloaking)
+
+If you have any questions, or you want to change your credentials, just reply to this email with your name and current username and password. DISCLAIMER: Usernames and passwords are publicly available if you search deeply enough. Please do not use a username and password that works elsewhere.
+
+Best regards,
+Asher
+The HTML Project </>
