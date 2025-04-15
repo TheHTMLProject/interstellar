@@ -42,6 +42,10 @@ const config = {
     chillguy: 'ccc',
     WhosJay11: 'jjj',    
     oopa_91: 'ddd',
+    hi: 'j',
+    guyontheinternet0234: 'Rnstn2641hamburger',
+    magog2k: '123454321',
+    Tristan: 'ttt',
     
 
   },
