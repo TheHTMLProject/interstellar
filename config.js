@@ -46,6 +46,7 @@ const config = {
     guyontheinternet0234: 'Rnstn2641hamburger',
     magog2k: '123454321',
     Tristan: 'ttt',
+    aedoti: 'Abcdefg!!',
     
 
   },
