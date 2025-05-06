@@ -47,7 +47,8 @@ const config = {
     magog2k: '123454321',
     Tristan: 'ttt',
     aedoti: 'Abcdefg!!',
-    
+    peepeeman69420: 'peepeeman69420',
+    Bruh: 'SussyBoy0',
 
   },
   routes: true, // Change this to false if you just want to host a bare server.
